@@ -27,7 +27,7 @@
                     <a class="nav-link" href="https://nerdafshow.github.io/NerdAF_Guests.html">Our Guests</a>
                   </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="https://nerdafshow.github.io/NerdAF_Gallery.html">Gallery</a>
+                  <a class="nav-link" href="https://nerdafshow.github.io/NerdAF_gallery.html">Gallery</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#">Patreon</a>
