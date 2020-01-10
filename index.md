@@ -18,16 +18,16 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
               <ul class="navbar-nav mr-auto">
                 <li class="nav-item active">
-                  <a class="nav-link" href="Nerd_AF_Hompage.html">Home <span class="sr-only">(current)</span></a>
+                  <a class="nav-link" href="https://nerdafshow.github.io/index.md">Home <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="NerdAF_Crew.html">Our Crew</a>
+                  <a class="nav-link" href="https://nerdafshow.github.io/NerdAF_Crew.html">Our Crew</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="NerdAF_Guests.html">Our Guests</a>
+                    <a class="nav-link" href="https://nerdafshow.github.io/NerdAF_Guests.html">Our Guests</a>
                   </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="NerdAF_Gallery.html">Gallery</a>
+                  <a class="nav-link" href="https://nerdafshow.github.io/NerdAF_Gallery.html">Gallery</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#">Patreon</a>
@@ -48,6 +48,7 @@
 
           <div>
               <p>
+                  <h4 class="body-text">Pardon our dust! We are still building our website so be sure to check back to see the next round of awesome content go live!</h4><br>
                   <h1 class="body-text">Welcome to the NerdAF Homepage!</h1><br>
                   <br>
                   <p class="body-text">We are the NerdAF podcast and we are all about open conversations on how<br>
