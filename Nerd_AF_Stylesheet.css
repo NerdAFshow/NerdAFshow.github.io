@@ -8,3 +8,14 @@ body{
     font-family: 'Courier New', Courier, monospace;
     padding-left: 20px;
 }
+
+.grid-wrapper {
+    display: grid;
+    grid-gap: 50px;
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr))
+}
+
+.box > img {
+    width: 100%
+}
+
