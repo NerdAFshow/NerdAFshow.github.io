@@ -1,0 +1,10 @@
+body{
+    background-image: url(https://wallpaperplay.com/walls/full/1/5/3/18340.jpg);
+    text-align: left;
+}
+
+.body-text{ 
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 20px;
+}
