@@ -24,10 +24,10 @@
                   <a class="nav-link" href="NerdAF_Crew.html">Our Crew</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Our Guests</a>
+                    <a class="nav-link" href="NerdAF_Guests.html">Our Guests</a>
                   </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">Gallery</a>
+                  <a class="nav-link" href="NerdAF_Gallery.html">Gallery</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#">Patreon</a>
